@@ -1,0 +1,27 @@
+
+*{
+   padding: 10px;
+}
+
+.counter{
+   display: flex;
+   flex-direction: row;
+}
+
+.view{
+   width:50px;
+   height:30px;
+   background-color: rgb(0, 255, 162);
+   display: flex;
+   align-items: center;
+   justify-content:center ;
+   
+}
+
+.button{
+   cursor: pointer;
+}
+
+.text{
+  font-size: 30px;
+}
